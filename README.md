@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan Camilo Villada
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Jetpack Compose
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me juan.villada@mercadolibre.com.co
 
 <!---
